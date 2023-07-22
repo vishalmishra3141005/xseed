@@ -9,7 +9,7 @@ import "./style/pages/Home.css";
 import "./style/components/Toolbar.css";
 import "./style/components/Content.css";
 import "./style/components/Tile.css";
-
+import "./style/pages/Video.css";
 
 
 
