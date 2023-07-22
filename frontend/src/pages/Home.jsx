@@ -1,8 +1,12 @@
 
+import Toolbar from "../components/Toolbar";
+import Content from "../components/Content";
+
 export default function Home() {
     return (
-        <>
-            Hello, World
-        </>
-    )
+        <div className="home-container">
+            <Toolbar />
+            <Content />
+        </div>
+    );
 }
